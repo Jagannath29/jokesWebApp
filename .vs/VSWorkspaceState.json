@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JokeWebApp",
+    "\\JokeWebApp\\Controllers",
+    "\\JokeWebApp\\Models",
+    "\\JokeWebApp\\Properties",
+    "\\JokeWebApp\\Views",
+    "\\JokeWebApp\\Views\\Home",
+    "\\JokeWebApp\\Views\\Jokes"
+  ],
+  "SelectedNode": "\\JokeWebApp\\Controllers\\JokesController.cs",
+  "PreviewInSolutionExplorer": false
+}
